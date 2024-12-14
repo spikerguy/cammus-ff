@@ -1,3 +1,6 @@
+ARCHIEVED
+Please use [Universal-pidff driver](https://github.com/JacKeTUs/universal-pidff)
+
 # Force feedback support for Cammus C5 steering wheel
 
 Linux module driver for Cammus C5 steering wheel.
